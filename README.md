@@ -58,6 +58,3 @@ Several of the steps ask you to be a bit creative, to come up with something tha
 18) SENIOR, verify that this Closes this Issue (because of the integration between Git and Issues, and the "Resolves #X" in the commit message), and that this also moves the Projects card over (because of the integration in step 12).  Take a screenshot.
 
 19) I guess I should make you submit SOMETHING, right.  Well, how about the two screenshots of the Projects board: one early in step 14, one at the end of step 18.
-
-
-
